@@ -1,0 +1,13 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "65f6f8537785661a3c87": "OUTPUT=. node 65f6f8537785661a3c87.js",
+    "build": "npm run 65f6f8537785661a3c87 && npm run build"
+  },
+  "devDependencies": {
+    "unzipper": "^0.10.11"
+  }
+}
